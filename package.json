@@ -1,0 +1,11 @@
+{
+  "name": "vue-glidejs-wrapper-example",
+  "version": "0.0.1-beta.0",
+  "dependencies": {
+    "@glidejs/glide": "^3.2.7"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}
